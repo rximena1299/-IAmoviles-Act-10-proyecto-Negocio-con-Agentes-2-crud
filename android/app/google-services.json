@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049808356670",
+    "project_id": "applemusiccrud",
+    "storage_bucket": "applemusiccrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049808356670:android:9a97b44ce3d7a9495a186f",
+        "android_client_info": {
+          "package_name": "com.example.crudapplemusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQcvxM068X_tDg071-S2cfR2TwUi7GkBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
